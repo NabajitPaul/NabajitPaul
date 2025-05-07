@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Research Paper Management System** , **Lost-Found Tracking Portal**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node Js,Express Js(Backend Development)**
 
 - 💬 Ask me about **Algorithms , Mern Stack**
 
