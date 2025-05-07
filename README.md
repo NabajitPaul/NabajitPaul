@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Nabajit Paul</h1>
-<h3 align="left">I'm a passionate Front-End Developer and enthusiastic Full-Stack Web Developer dedicated to crafting seamless digital experiences with clean code and creative design✨.I love building responsive,user-centric applications with modern tools like JavaScript, React.js, Tailwind CSS, Node.js, and MongoDB🚀.Currently sharpening my skills in full-stack development and exploring new technologies to bring ideas to life🌱.</h3>
+<h3 align="left">I'm a passionate Front-End Developer and enthusiastic Full-Stack Web Developer dedicated to crafting seamless digital experiences with clean code and creative design✨.I love building responsive,user-centric applications with modern tools..Currently sharpening my skills in full-stack development and exploring new technologies to bring ideas to life🌱.</h3>
 
 
 
